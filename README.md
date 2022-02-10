@@ -5,6 +5,7 @@ This repository consists of data science code that I have developed and accumula
 
 This section summarizes different data science topics with general information to help the viewer to select different metrics and build good systems for a variety of tasks.
 
+- [**Classification:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Classification.ipynb) This notebooks is a summary on classification. Specifically how to select good metrics for classification tasks, pick the appropiate precision/recall trade-off, compare classifiers, and build good classification systems for a variety of tasks. **Keywords:** ***Binary Classifier, Confusion Matrix, Precision, Recall, F1 Score, PR Curve, ROC Curve, Multiclass Classification, OvR, OvO***.
 
 ## Examples
 

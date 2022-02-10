@@ -1,8 +1,20 @@
-# Data-Science-Personal-Projects
-This repository consists of data science code personal projects, the uploaded projects are the following:
+# Data-Science-Portfolio
+This repository consists of data science code that I have developed and accumulated, it is a growing repository as I create more tutorial notebooks, examples or other code. It is sepparated in a summary section, example section & miscellaneous.
 
-1. [**Web Scraping Spanish Book Data:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Web%20Scraping%20Spanish%20Book%20Data.ipynb) This Jupyter notebook shows the code and results of scraping 'Lectulandia', a website where books in spanish could be downloaded. The objective is to obtain a database with all of the books available in the website with information as genre and description plus the hyperlink to download them both in pdf and epub. This created database will be used for new projects.
+## Summary Code
 
-2. [**Predicting Median Housing Price per District:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Predicting%20Median%20Housing%20Price%20per%20District.ipynb) This Jupyter notebook has the purpose of showing a complete project to predict the median housing price of a district in California, from obtaining data to model evaluation. This includes: EDA, Creating Custom Transformers, Creating Pipelines, Selecting Models, Using Grid Search and Random Search & evaluating a model.
+This section summarizes different data science topics with general information to help the viewer to select different metrics and build good systems for a variety of tasks.
 
-3. [**Algorithms for Stanford Coursera Course:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Programmed%20Algorithms%20.ipynb) This Jupyter notebook has all of the algorithms that had to be developed for the Stanford coursera course, including: Recursions, Divide & Conquer Algorithms, QuickSort, Randomized Selection, Graphs And The Contraction Algorithm, Graph Search and Connectivity, Computing strongest components, Dijkstra's Shortest Path Algorithm, Heaps, Greedy algorithms and scheduling algorithms.
+
+## Examples
+
+This section shows different applications of data science topics through real world examples.
+
+- [**Web Scraping Spanish Book Data:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Web%20Scraping%20Spanish%20Book%20Data.ipynb) This Jupyter notebook shows the code and results of web scraping 'Lectulandia', a website where books in spanish could be downloaded. The objective is to obtain a database with all of the books available in the website with information as genre and description plus the hyperlink to download them both in pdf and epub. **Keywords:** ***Web-Scraping***.
+- [**Predicting Median Housing Price per District:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Predicting%20Median%20Housing%20Price%20per%20District.ipynb) This Jupyter notebook has the purpose of showing a complete project to predict the median housing price of a district in California, from obtaining data to model evaluation. **Keywords:** ***EDA, Creating Custom Transformers, Creating Pipelines, Model Selection, Grid Search and Random Search, Model Evaluation***.
+
+## Misc
+
+This section has different miscellaneous code that has been developed that might not directly apply to data science.
+
+- [**Algorithms for Stanford Coursera Course:**](https://github.com/chris-guerra/Data-Science-Portfolio/blob/main/Programmed%20Algorithms%20.ipynb) This Jupyter notebook has all of the algorithms that had to be developed for the Stanford coursera course. **Keywords:** ***Recursions, Divide & Conquer Algorithms, QuickSort, Randomized Selection, Graphs And The Contraction Algorithm, Graph Search and Connectivity, Computing strongest components, Dijkstra's Shortest Path Algorithm, Heaps, Greedy algorithms, Scheduling Algorithms***.

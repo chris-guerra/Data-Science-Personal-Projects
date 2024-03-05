@@ -1,5 +1,5 @@
 # data-science-and-ML-scripts
-This repository consists of data science code that I have developed and accumulated, it is a growing repository as I create more tutorial notebooks, examples or other code. It is sepparated in a summary section, example section & miscellaneous.
+This repository consists of data science and machine learning standard code that I use often and have accumulated, it is a growing repository where I include explanations for the reader with examples. It is sepparated in a summary section, example section & miscellaneous.
 
 ## Summary Code
 

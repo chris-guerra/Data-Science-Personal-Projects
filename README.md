@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# data-science-and-ML-scripts
 This repository consists of data science code that I have developed and accumulated, it is a growing repository as I create more tutorial notebooks, examples or other code. It is sepparated in a summary section, example section & miscellaneous.
 
 ## Summary Code

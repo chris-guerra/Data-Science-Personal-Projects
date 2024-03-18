@@ -5,6 +5,8 @@ This repository consists of data science and machine learning standard code that
 
 LangChain is a framework and toolkit for building applications that leverage large language models, like GPT, to automate tasks and enhance natural language understanding. This section is a full overview on how to use it.
 
+- [**Part 1 - Models, prompts and output parsers:**](langchain/models_prompts_parsers.ipynb)
+
 ## Classification
 
 This section summarizes different data science topics with general information to help the viewer to select different metrics and build good systems for a variety of tasks.
@@ -17,16 +19,17 @@ This section summarizes different data science topics with general information t
 ## Regression
 
 ### Examples
-- [**Regression - Predicting Median Housing Price per District:**](examples/Predicting Median Housing Price per District.ipynb) This Jupyter notebook has the purpose of showing a complete project to predict the median housing price of a district in California, from obtaining data to model evaluation. **Keywords:** ***EDA, Creating Custom Transformers, Creating Pipelines, Model Selection, Grid Search and Random Search, Model Evaluation***.
+- [**Regression - Predicting Median Housing Price per District:**](<examples/Predicting Median Housing Price per District.ipynb>) This Jupyter notebook has the purpose of showing a complete project to predict the median housing price of a district in California, from obtaining data to model evaluation. **Keywords:** ***EDA, Creating Custom Transformers, Creating Pipelines, Model Selection, Grid Search and Random Search, Model Evaluation***.
 
 ## Web Scrapping
-- [**Web Scraping Spanish Book Data:**](web_scrapping/Web Scraping Spanish Book Data.ipynb) This Jupyter notebook shows the code and results of web scraping 'Lectulandia', a website where books in spanish could be downloaded. The objective is to obtain a database with all of the books available in the website with information as genre and description plus the hyperlink to download them both in pdf and epub. **Keywords:** ***Web-Scraping***.
+- [**Web Scraping Spanish Book Data:**](<web_scrapping/Web Scraping Spanish Book Data.ipynb>) This Jupyter notebook shows the code and results of web scraping 'Lectulandia', a website where books in spanish could be downloaded. The objective is to obtain a database with all of the books available in the website with information as genre and description plus the hyperlink to download them both in pdf and epub. **Keywords:** ***Web-Scraping***.
 
 ## Misc
 
 This section has different miscellaneous code that has been developed that might not directly apply to data science.
 
-- [**Algorithms for Stanford Coursera Course:**](misc/Programmed Algorithms .ipynb) This Jupyter notebook has all of the algorithms that had to be developed for the Stanford coursera course. **Keywords:** ***Recursions, Divide & Conquer Algorithms, QuickSort, Randomized Selection, Graphs And The Contraction Algorithm, Graph Search and Connectivity, Computing strongest components, Dijkstra's Shortest Path Algorithm, Heaps, Greedy algorithms, Scheduling Algorithms***.
+- [**Algorithms for Stanford Coursera Course:**](<misc/Programmed Algorithms .ipynb>)
+This Jupyter notebook has all of the algorithms that had to be developed for the Stanford coursera course. **Keywords:** ***Recursions, Divide & Conquer Algorithms, QuickSort, Randomized Selection, Graphs And The Contraction Algorithm, Graph Search and Connectivity, Computing strongest components, Dijkstra's Shortest Path Algorithm, Heaps, Greedy algorithms, Scheduling Algorithms***.
 
 ## Functions
 Many functions I have used and reused for múltiple scripts.

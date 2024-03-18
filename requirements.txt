@@ -1,0 +1,21 @@
+# Kernel for jupyter notebook
+ipykernel
+
+# LLMs
+openai
+spacy
+# Data science related packages
+
+pandas
+# Connect to OS
+python-dotenv
+
+# Connect to DB
+sshtunnel
+psycopg2
+
+# Read ambient variables
+python-dotenv
+
+# Updgrade certificates
+#--upgrade certifi#

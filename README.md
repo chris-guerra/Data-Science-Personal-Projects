@@ -5,7 +5,7 @@ This repository consists of data science and machine learning standard code that
 
 LangChain is a framework and toolkit for building applications that leverage large language models, like GPT, to automate tasks and enhance natural language understanding. This section is a full overview on how to use it.
 
-- [**Part 1 - Models, prompts and output parsers:**](langchain/models_prompts_parsers.ipynb)
+- [**Part 1 - Models, prompts and output parsers:**](langchain/models_prompts_parsers.ipynb) This section explains how to use templates with OpenAI and Langchain and using parsers to structure the output.
 
 ## Classification
 

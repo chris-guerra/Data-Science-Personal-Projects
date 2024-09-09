@@ -62,7 +62,7 @@ Pending.
 - [**Classification:**](classification/Classification.ipynb) This notebooks is a summary on classification. Specifically how to select good metrics for classification tasks, pick the appropiate precision/recall trade-off, compare classifiers, and build good classification systems for a variety of tasks. **Keywords:** ***Binary Classifier, Confusion Matrix, Precision, Recall, F1 Score, PR Curve, ROC Curve, Multiclass Classification, OvR, OvO***.
 - [**Classification - Predicting Passenger Survival on Titanic:**](<classification/Classification - Predict Passenger Survival On Titanic.ipynb>) This notebook has the purpose of predict whether or not a passenger survived the Titanic based on attributes such as their age, sex, passenger class, where they embarked and so on. The result is an 82% accuracy based on the suggested models. **Keywords:** ***Classification, EDA, Creating Custom Transformers, Creating Pipelines, Model Selection, Random Search, Model Evaluation, Random Forest, K-Nearest Neighbours***.
 
-## Regression
+##### Regression
 - [**Regression - Predicting Median Housing Price per District:**](<examples/Predicting Median Housing Price per District.ipynb>) This Jupyter notebook has the purpose of showing a complete project to predict the median housing price of a district in California, from obtaining data to model evaluation. **Keywords:** ***EDA, Creating Custom Transformers, Creating Pipelines, Model Selection, Grid Search and Random Search, Model Evaluation***.
 #### Unsupervised Learning
 #### Model Selection
